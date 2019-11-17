@@ -2,3 +2,4 @@
 
 - [TP1 (Functional Dependencies)](https://nbviewer.jupyter.org/github/SJD1882/msbd-INF725-Exercices/blob/master/DAVID_Sebastien_DB_TP1.ipynb)
 - [TP2 (Database Normalization)](https://nbviewer.jupyter.org/github/SJD1882/msbd-INF725-Exercices/blob/master/DAVID_Sebastien_DB_TP2.ipynb)
+- [TP3 (Views, Update, Design)](https://nbviewer.jupyter.org/github/SJD1882/msbd-INF725-Exercices/blob/master/DAVID_Sebastien_DB_TP3.ipynb)
